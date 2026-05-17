@@ -22,3 +22,7 @@ Forking allows you to create a copy of an existing repository on your own accoun
 Let's try forking this repository! Click the fork button at the top right corner of this workshop repository to create your own copy. <br/>
 <img src="images/fork.png" width="500">
 
+#### Cloning
+Cloning creates a version of the repository on your computer so you can make edits locally. <br/>
+To find your fork url, click on the green code button and copy url as shown below. <br/>
+<img src="images/code.png" width="450">
