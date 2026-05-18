@@ -35,4 +35,10 @@ Open RStudio and select **File** then **New Project**. Then select **Version Con
 
 ### 2. Make and save changes
 Now that you're working on your local forked repository, let's practice some programming skills! <br/>
-In RStudio, open the R folder in the repo structure, and select the **S26_CBS_Coding_Workshop.R** file.
+In RStudio, open the R folder in the repo structure, and select the **S26_CBS_Coding_Workshop.R** file. Now, let's practice some R programming! <br/>
+
+Returning back to the Git tutorial, RStudio has a helpful interface to work with git commands to save changes. You can use the RStudio terminal and use the usual git commands (git add, git commit, git push), but this tutorial will go over the RStudio interface for Git. <br/>
+
+
+
+
