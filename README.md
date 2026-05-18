@@ -39,6 +39,7 @@ In RStudio, open the R folder in the repo structure, and select the **S26_CBS_Co
 
 Returning back to the Git tutorial, RStudio has a helpful interface to work with git commands to save changes. You can use the RStudio terminal and use the usual git commands (git add, git commit, git push), but this tutorial will go over the RStudio interface for Git. <br/>
 
-
+Once you make the changes to your R file, select the **Git** dropdown and **History** as shown in the image below.
+<img src="images/gittabs.png" width="500">
 
 
