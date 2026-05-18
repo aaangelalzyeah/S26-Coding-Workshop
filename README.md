@@ -54,3 +54,6 @@ When using GitHub for collaborative projects, users upload their changes back to
 First, go to your fork on GitHub. Then, click on **Pull Requests**, and **Create pull request** as shown below. <br/>
 <img src="images/createpull.png" width="800"> <br/>
 Your pull request will be reviewed and merged to the main repository. <br/>
+
+### 5. Sync your local repo
+Now that we've made changes to our main repository, we want to reflect those changes on our local files. To do this, go to your forked repository and select 
