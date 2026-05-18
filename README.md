@@ -56,4 +56,9 @@ First, go to your fork on GitHub. Then, click on **Pull Requests**, and **Create
 Your pull request will be reviewed and merged to the main repository. <br/>
 
 ### 5. Sync your local repo
-Now that we've made changes to our main repository, we want to reflect those changes on our local files. To do this, go to your forked repository and select 
+Now that we've made changes to our main repository, we want to reflect those changes on our local files. To do this, go to your forked repository and select **Sync fork** to have the main repo changes reflected on your forked repo. <br/>
+<img src="images/sync.png" width="800"> <br/>
+
+Now our project is up to date and you've learned the basic GitHub workflow!
+
+---
