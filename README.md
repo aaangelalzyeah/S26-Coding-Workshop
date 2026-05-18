@@ -37,9 +37,13 @@ Open RStudio and select **File** then **New Project**. Then select **Version Con
 Now that you're working on your local forked repository, let's practice some programming skills! <br/>
 In RStudio, open the R folder in the repo structure, and select the **S26_CBS_Coding_Workshop.R** file. Now, let's practice some R programming! <br/>
 
+### 3. Stage, commit, and push to GitHub
 Returning back to the Git tutorial, RStudio has a helpful interface to work with git commands to save changes. You can use the RStudio terminal and use the usual git commands (git add, git commit, git push), but this tutorial will go over the RStudio interface for Git. <br/>
 
 Once you make the changes to your R file, select the **Git** dropdown and **History** as shown in the image below.
 <img src="images/tabs.png" width="500">
 
+This will open up a window for you to review changes in RStudio. Select the **History** tab in the new window, and select the checkbox next to the file you made changes to. Select **Staged** to see the changes you want to include when you update your repo. Since we want to include all our changes, select **Stage** at the top of the window. Then, we want to save a snapshot of our changes with a message describing our edits. Enter your message in the box and select **Commit**. Finally, to upload your work to your forked repository, select **Push** at the top of the window.
+<img src="images/commitbox.png" width="800">
 
+**Tip:** If you're getting an error saying "Invalid username or token", you may need to create a Personal Access Token. Go to Settings -> Developer Settings (at the bottom left) -> Personal Access Tokens. Then generate a token (classic), give access to repo, and set expiration to 7 days. Paste the token when prompted and this should solve the error.
