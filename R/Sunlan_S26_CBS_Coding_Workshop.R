@@ -89,6 +89,9 @@ mean(mtcars$hp)
 # What is the correlation between weight (wt) and cylinder count(cyl)?
 cor(mtcars$wt, mtcars$cyl)
 
+# Create a correlation plot of weight (wt) and cyclinder count (cyl):
+wt_cyl_scatter <- plot(mtcars$wt, mtcars$cyl, main= "Scatter Plot of Wt and Cyl", xlab = "Weight", ylab = "Cylinder Count", col = "Purple")
+
 # What is the heaviest car in the dataset? Use the max() function (which takes a vector)
 max(mtcars$wt)
   
